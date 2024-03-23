@@ -8,6 +8,6 @@ Big Data Student at IHEC Carthage
 -------------
 
 * 🌍  I'm based in Tunisia
-* ✉️  You can contact me at [samarbenamara11@gmail.com]
 * 🤝  I’m looking to collaborate on new projects
+* ✉️  You can contact me at [samarbenamara11@gmail.com]
   
