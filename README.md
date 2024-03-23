@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Samar 👋</h1>
+<p align="center"><a href="https://www.linkedin.com/in/samar-ben-amara-4b7350204/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/samar.ben.amara/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
+  
 
-<!--
-**samar-benamara/samar-benamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Big Data Student at IHEC Carthage
+-------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Tunisia
+* ✉️  You can contact me at [samarbenamara11@gmail.com]
+* 🤝  I’m looking to collaborate on new projects
+  
