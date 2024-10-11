@@ -4,7 +4,7 @@
   </p>
   
 
-Big Data Student at IHEC Carthage
+Software Engineering Student
 -------------
 
 * 🌍  I'm based in Tunisia
